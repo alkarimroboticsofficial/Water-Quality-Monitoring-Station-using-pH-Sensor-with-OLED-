@@ -1,6 +1,3 @@
-Perfect — I converted your **Water Quality Monitoring Station (pH Sensor + OLED)** into the same professional README template style you provided.
-
----
 
 # 💧 Water Quality Monitoring Station using pH Sensor
 
